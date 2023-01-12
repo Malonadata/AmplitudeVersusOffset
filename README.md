@@ -1,3 +1,3 @@
-# Amplitude Versus Offset (AVO)
+## Amplitude Versus Offset (AVO)
 AVO Modeling
 aki rica
