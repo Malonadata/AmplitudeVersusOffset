@@ -16,7 +16,11 @@ Williams, 1989; Burnett, 1990).
 
 ## Equation
 - **Wiggin's version of Aki-Richards**
-![image](https://user-images.githubusercontent.com/119678959/212059828-e61e9e98-6e91-4eb5-97e3-134aa31beb39.png)
+
+
+-![image](https://user-images.githubusercontent.com/119678959/212059828-e61e9e98-6e91-4eb5-97e3-134aa31beb39.png)
 
 - **Shuey's Equation**
+
+
 ![image](https://user-images.githubusercontent.com/119678959/212060161-5029334c-7516-4e4a-a1fe-821c837c58ea.png)
